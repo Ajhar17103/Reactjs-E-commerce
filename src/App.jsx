@@ -50,7 +50,7 @@ function App() {
   
 
   return (
-    <Router basename="/react">
+    <Router basename="/commercejs">
       <div  >
         <NavBar totalItems={cart.total_items} />
         <Switch>
